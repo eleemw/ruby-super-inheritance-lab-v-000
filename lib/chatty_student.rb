@@ -10,7 +10,7 @@ class ChattyStudent < Student
     # while counter < 10
     #   super
     #   counter += 1
-    # end
+    # end #refactored 9 - 13 into one line 14
     10.times{super}
   end
 
