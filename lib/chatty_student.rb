@@ -11,7 +11,7 @@ class ChattyStudent < Student
     #   super
     #   counter += 1
     # end
-    10.times(super)
+    10.times{super}
   end
 
 end
